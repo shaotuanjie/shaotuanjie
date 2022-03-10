@@ -1,11 +1,5 @@
 
 
-# 个人信息
-
- - 姓名：邵团结
- - Email: tuanjie.shao@gmail.com
-
-
 
 # 教育背景
 
