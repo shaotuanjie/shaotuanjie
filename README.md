@@ -1,15 +1,32 @@
-### Hi there 👋
 
-<!--
-**shaotuanjie/shaotuanjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 个人信息
 
-- 🔭 I’m currently working on edge machine learning
-- 🌱 I’m currently learning linux kernel
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: tuanjie.shao@gmail.com
--
--->
+ - 姓名：邵团结
+ - Email: tuanjie.shao@gmail.com
+
+
+
+# 教育背景
+
+ - 本科：东北大学　(2015-2019)
+ - 硕士：成均馆大学 (2020-2022)
+
+
+
+
+  
+# 论文
+
+ - Structural Pruning for Deep Convolutional Neural Networks via Adaptive Sparsity Regularization (COMPSAC2022 submitted)
+ -
+
+
+## 开源项目
+
+  - https://github.com/shaotuanjie/adaptive_slimming_pytorch
+  
+
+
+    
+
