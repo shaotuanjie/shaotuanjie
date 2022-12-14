@@ -12,7 +12,7 @@
   
 # 论文
 
- - Structural Pruning for Deep Convolutional Neural Networks via Adaptive Sparsity Regularization (COMPSAC2022 submitted)
+ - Structural Pruning for Deep Convolutional Neural Networks via Adaptive Sparsity Regularization (COMPSAC2022)
  -
 
 
